@@ -43,8 +43,8 @@ import "./App.css";
 
 function App() {
   <template>
-  <div id="app"></div>
-</template>
+    <div id="app"></div>
+  </template>
 }
 export default App;
 ```
@@ -129,7 +129,10 @@ Quan facin clic, hauríeu d'obtenir l' `id` d'aquest actor i utilitzar-lo per el
 
 Quan hagi acabat, la vostra aplicació hauria de tenir aquest aspecte (després de jugar una mica amb el botó _Suprimeix_ ):
 
-<details><summary> Comproveu la imatge a l'interior - Iteració 5 </summary>
+<details>
+<summary> Comproveu la imatge a l'interior - Iteració 5 </summary>
+
+<br>
 
 ![Captura de pantalla: iteració 5](https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-react-ironcontacts-5.png)
 
